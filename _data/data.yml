@@ -61,28 +61,21 @@ career-profile:
 
         JIRA / Confluence / Test Rail / AppTest Menager
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science in Computer systems and mobile technologies
+      university: West Pomeranian University of Technology, Szczecin, Poland
+      time: October 2013 - November 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Topic of the Master diploma thesis: Application of image processing from phone camera for heart rate measurements.
+    - degree: Bachelor of Engineering in Computer Science and Information Technology
+      university: West Pomeranian University of Technology, Szczecin, Poland
+      time: October 2009 - June 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Topic of the Engineer diploma thesis: Implementation of the application for the Windows Phone devices with touch screen
+    - degree: Student exchange program
+      university: University of Southern Denmark, Odense
+      time: February 2012 – June 2012
+      details: |
+        Software Engineering – student exchange program)
 experiences:
     - role: Senior QA Engineer
       time: Feb 2020 - Present
