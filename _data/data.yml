@@ -59,11 +59,17 @@ career-profile:
     title: Core Competence / Exellence
     summary: |     
         Domain know-how: Web / Mobile / Automotive
+
         Quality assurance / Test automation
+        
         Java, Bash, Python, C#
+        
         Git / Gerrit
+        
         Selenium / Selenide / Selenoid / Cucumber / RESTAssured / TestNG / Junit / Maven /
+        
         Docker / Jenkins / Postman / Charles Proxy / Locust.io / Splunk
+        
         JIRA / Confluence / Test Rail / AppTest Menager
 education:
     - degree: MSc in Computer Science
