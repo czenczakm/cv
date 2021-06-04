@@ -36,40 +36,29 @@ sidebar:
       - idiom: German
         level: Elementary
 
-    interests:
+    socialskills:
       - item: Proactive
-        link:
-
       - item: Highly motivated
-        link:
-
       - item: Ambitious
-        link:
-        
       - item: Team player
-        link:
-
       - item: Team spirited
-        link:
-
       - item: Good interpersonal skills
-        link:
-        
+
 career-profile:
     title: Core Competence / Exellence
-    summary: |     
+    summary: |
         Domain know-how: Web / Mobile / Automotive
 
         Quality assurance / Test automation
-        
+
         Java, Bash, Python, C#
-        
+
         Git / Gerrit
-        
+
         Selenium / Selenide / Selenoid / Cucumber / RESTAssured / TestNG / Junit / Maven /
-        
+
         Docker / Jenkins / Postman / Charles Proxy / Locust.io / Splunk
-        
+
         JIRA / Confluence / Test Rail / AppTest Menager
 education:
     - degree: MSc in Computer Science
@@ -99,11 +88,11 @@ experiences:
       time: Feb 2020 - Present
       company: Meelogic / Globallogic, Szczecin
       details: |
-        Test automation/quality assurance for automotive solutions 
+        Test automation/quality assurance for automotive solutions
         (integration of the traffic flow data using RESTful Web API services between automotive - head units and maps industry.)
-        
-        Responsible for the creation of Feature Test Strategies and automated test cases 
-        for the corresponding feature. Implementing different levels of tests: unit, 
+
+        Responsible for the creation of Feature Test Strategies and automated test cases
+        for the corresponding feature. Implementing different levels of tests: unit,
         functional and acceptance tests with Java 8, TestNG and Maven.
           - Test requirements analysis
           - Functional and non-functional tests
@@ -112,7 +101,7 @@ experiences:
           - Code reviews using Gerrit
           - Analysis of reported problems
           - Development and maintenance required documentation
-      
+
     - role: Senior Software Tester
       time: Jul 2018 - Jan 2020
       company: Pierce AB, Szczecin
@@ -125,7 +114,7 @@ experiences:
           - Testing migration between databases
           - Front-end automation based on Java, Selenide and Selenoid
           - Beck-end automation based on Java, RESTAssured, Cucumber
-          
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London

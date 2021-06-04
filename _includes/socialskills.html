@@ -1,0 +1,16 @@
+{% assign socialskills = site.data.data.sidebar.socialskills %}
+{% if socialskills %}
+<div class="socialskills-container container-block">
+
+  <h2 class="container-block-title">
+    Social skills and competences
+  </h2>
+
+  <ul class="list-unstyled socialskills-list">
+    {% for interest in socialskills %}
+      <li>{{ interest.item }}</li>
+    {% endfor %}
+  </ul>
+
+</div><!--//socialskills-->
+{% endif %}
