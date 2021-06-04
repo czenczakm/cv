@@ -86,7 +86,7 @@ education:
 experiences:
     - role: Senior QA Engineer
       time: Feb 2020 - Present
-      company: Meelogic / Globallogic, Szczecin
+      company: Globallogic (formerly Meelogic Consulting Polska Sp. z o.o.), Szczecin
       details: |
         Test automation/quality assurance for automotive solutions
         (integration of the traffic flow data using RESTful Web API services between automotive - head units and maps industry.)
@@ -104,9 +104,9 @@ experiences:
 
     - role: Senior Software Tester
       time: Jul 2018 - Jan 2020
-      company: Pierce AB, Szczecin
+      company: PDC Logistics (Pierce AB), Szczecin
       details: |
-        Conception, design and realization of a test automation platform for purposes of testing the web app.
+        Conception, design and realization of a test automation platform for purposes of testing the E-Comerce web app (24MX, XLmoto, Sledstore).
           - Reporting test results
           - Inspecting and controlling defects in bug tracking system
           - Systematic software testing
@@ -115,87 +115,47 @@ experiences:
           - Front-end automation based on Java, Selenide and Selenoid
           - Beck-end automation based on Java, RESTAssured, Cucumber
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior QA Engineer
+      time: Sep 2017 – Jun 2018
+      company: intive (formerly BLStream Sp. z o.o.), Szczecin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        Manual and automated tests of TV Everywhere product for mobile clients (iOS, Android) and web app. Leading QA team.
+          - Reporting test results
+          - Inspecting and controlling defects in bug tracking system
+          - Systematic software testing
+          - Co-operation with developers team and Product Owner
+          - Creating automation framework based on Selenium, Java and Cucumber
+          - QA team management (2 persons)
+          
+    - role: QA Engineer
+      time: Oct 2014 – Aug 2017
+      company: intive (formerly BLStream Sp. z o.o.), Szczecin
+      details: |
+        Quality assurance for an SDK used to develop apps including secure communications, inter-app data exchange, single sign-on authentication, identity and access management for iPhone, macOS, Windows and Windows Phone application.
+          - Writing test cases and managing their execution
+          - Reporting test results
+          - Inspecting and controlling defects in bug tracking system
+          - Systematic software testing
+          - Co-operation with developers team
+          - Developing scripts for automation purposes
+          
+    - role: Junior / Software Test Enginieer
+      time: Oct 2014 – Aug 2017
+      company: Raynet Polska Sp. z o.o., Szczecin
+      details: |
+        Quality assurance for an applications dedicated to packaging and management of software packages.
+          - Writing test cases and managing their execution
+          - Reporting test results
+          - Inspecting and controlling defects in bug tracking system
+          - Systematic software testing
+          - Co-operation with developers team
+    
+    - role: Web automation using Selenium and Groovy
+      time: Dec 2011 – Apr 2012
+      company: Lemon Demon Sp. z o.o., Szczecin
+      details: |
+          - Web automation using Selenium and Groovy
+          - Developing scripts for automation purposes
 
 footer: >
     <a href="mailto:czenczakm@gmail.com">czenczakm@gmail.com</a>
